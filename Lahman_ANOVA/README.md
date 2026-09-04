@@ -2,7 +2,7 @@
 
 A statistics lab using real MLB data from the [Lahman Baseball Database](https://sabr.org/lahman-database/) to explore hypothesis testing via ANOVA.
 
-📺 **Video walkthrough:** [YouTube Link](#)
+📺 **Video walkthrough:** [https://www.youtube.com/watch?v=n_s4Cb0EHuI](#)
 
 ## What's Covered
 
